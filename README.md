@@ -5,11 +5,11 @@ Materijali za kurs Genomske informatike [2019](https://github.com/vladimirkovace
 
 Predavači:
 
-marko.misic@etf.bg.ac.rs Course professor
+marko.misic@etf.bg.ac.rs, predmetni nastavnik
 
-pedjao@etf.bg.ac.rs Teaching assistant, Questions about technical details and exercises
+pedjao@etf.bg.ac.rs, predmetni asistent
 
-vladimir.kovacevic@etf.rs Guest lecturer
+vladimir.kovacevic@etf.rs, gostujući predavač
 
 ### Obaveštenja o kursu
 Dostupni su tekstovi [projektnih zadataka](https://docs.google.com/document/d/1pAEvpJkSx_kqacKKbwbITQEMepUfZKGqhxYJ_WItwKI/edit?usp=sharing). 
